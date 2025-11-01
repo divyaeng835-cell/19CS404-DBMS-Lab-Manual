@@ -221,6 +221,7 @@ left join salesman s on c.salesman_id=s.salesman_id;
 
 **SEB EXAM**
 
+<img width="1355" height="75" alt="Screenshot 2025-11-01 183053" src="https://github.com/user-attachments/assets/eb126086-17db-464d-9725-1796712aba05" />
 
 
 ## RESULT
