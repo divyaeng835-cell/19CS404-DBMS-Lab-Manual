@@ -3,7 +3,6 @@
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
-
 ## THEORY
 
 PL/SQL, which stands for Procedural Language extensions to the Structured Query Language (SQL). It is a combination of SQL along with the procedural features of programming languages.
@@ -186,4 +185,5 @@ Largest of three number is 15
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
+
 
